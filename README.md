@@ -1,4 +1,4 @@
-# signalRChat
+# SignalRChat
 
 使用Visual Studio 2019建立的一个简单聊天平台
 
